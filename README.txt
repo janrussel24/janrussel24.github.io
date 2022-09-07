@@ -1,22 +1,34 @@
-The terminology depicts the necessities and information of a college student and galvanized through website.
+The terminology depicts the necessities and information of a college student and galvanized through student portfolio website.
 
 Terminilogies:
 
-Student
-Rubik's Cube
-3D Printing
-HUMSS
+	3D Printing
+	BSIT
+	College Student
+	HUMSS
+	Rubik's Cube
+	
+Information:
+	Personal Information of the Student
+	Necessities of the Student
+	Commodities of the Student
 
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Personal Images:
+		Facebook (Facebook.com)
+		Instagram (Instagram.com)
+		Twitter (Twitter.com)
+		Gallery from my Phone
 
 	Icons:
 		Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
+	Animations:
+		CSS Animations (Animate.css)
+		jQuery (github.com/jquery/jquery)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+Copyright (c) HTML5 UP!
